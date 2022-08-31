@@ -1,0 +1,7 @@
+../Core/Src/l3gd20.c:14:9:l3gd20_sendbyte	32	static
+../Core/Src/l3gd20.c:22:6:l3gd20_write	16	static
+../Core/Src/l3gd20.c:42:6:l3gd20_read	16	static
+../Core/Src/l3gd20.c:69:6:l3gd20_init	16	static
+../Core/Src/l3gd20.c:95:6:l3gd20_reboot	16	static
+../Core/Src/l3gd20.c:104:9:l3gd20_status	16	static
+../Core/Src/l3gd20.c:112:6:l3gd20_readxyz	48	static

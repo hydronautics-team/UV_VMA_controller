@@ -1,0 +1,9 @@
+../Core/Src/osdWidgets.c:127:6:displayAltitude	64	static
+../Core/Src/osdWidgets.c:243:6:displayArtificialHorizon	32	static
+../Core/Src/osdWidgets.c:293:6:displayAttitude	64	static
+../Core/Src/osdWidgets.c:374:6:displayHeading	40	static
+../Core/Src/osdWidgets.c:424:6:displayDepth	48	static
+../Core/Src/osdWidgets.c:436:6:displayBattery	120	static
+../Core/Src/osdWidgets.c:467:6:displayMotorArmedTime	40	static
+../Core/Src/osdWidgets.c:482:6:displaycompas	80	static
+../Core/Src/osdWidgets.c:523:6:displayNoConnection	32	static

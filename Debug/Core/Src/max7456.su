@@ -1,0 +1,13 @@
+../Core/Src/max7456.c:61:9:spiReadMax7456Register	32	static
+../Core/Src/max7456.c:74:6:spiWriteMax7456Register	24	static
+../Core/Src/max7456.c:84:6:hideOSD	8	static
+../Core/Src/max7456.c:102:6:unhideOSD	8	static
+../Core/Src/max7456.c:119:6:videoHideMax7456	16	static
+../Core/Src/max7456.c:148:6:writeMax7456Chars	24	static
+../Core/Src/max7456.c:183:6:detectVideoStandard	16	static
+../Core/Src/max7456.c:249:6:initMax7456	16	static
+../Core/Src/max7456.c:284:6:resetMax7456	16	static
+../Core/Src/max7456.c:315:6:showMax7456Font	16	static
+../Core/Src/max7456.c:360:6:waitNVM	8	static
+../Core/Src/max7456.c:369:6:writeNVMcharacter	24	static
+../Core/Src/max7456.c:401:6:downloadMax7456Font	16	static

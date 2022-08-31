@@ -1,0 +1,7 @@
+../Core/Src/lsm303dlhc.c:35:9:lsm_read	40	static
+../Core/Src/lsm303dlhc.c:43:6:lsm_write	32	static
+../Core/Src/lsm303dlhc.c:49:6:lsm_init	16	static
+../Core/Src/lsm303dlhc.c:72:6:lsm_reboot	16	static
+../Core/Src/lsm303dlhc.c:81:9:lsm_status	16	static
+../Core/Src/lsm303dlhc.c:89:6:lsm_accxyz	40	static
+../Core/Src/lsm303dlhc.c:144:6:lsm_magxyz	24	static
